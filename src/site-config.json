@@ -1,0 +1,488 @@
+{
+  "business": {
+    "name": "Summit Power Washing",
+    "phone": "555-pow-r91",
+    "category": "power-washing",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "power-washing-mountain-bold",
+      "categoryGroup": "power-washing",
+      "name": "Mountain Bold",
+      "recipeFile": "power-washing/mountain-bold.astro",
+      "colors": {
+        "primary": "#0369A1",
+        "primaryDark": "#024a71",
+        "primaryLight": "#c0dae8",
+        "secondary": "#0EA5E9",
+        "accent": "#22D3EE",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0369A1",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "power-washing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Restore Your Home’s Brilliance",
+      "heroSubline": "Jacksonville’s trusted power-washing experts since 2012. We remove Jacksonville’s stubborn grime, salt residue, and mildew with precision care.",
+      "aboutTitle": "Why Summit Power Washing Stands Out",
+      "aboutText": [
+        "Founded in 2012, Summit Power Washing began with a simple mission: to help Jacksonville homeowners protect and maintain their properties against the region’s harsh coastal climate. Our founder, a local tradesman, saw how salt air, humidity, and seasonal storms took a toll on homes and knew there was a better way.",
+        "We use commercial-grade equipment paired with eco-friendly cleaning solutions to strip away years of buildup without damaging surfaces. Every job starts with an assessment to tailor our approach to your home’s materials and Jacksonville’s specific environmental challenges.",
+        "As a Duval County-based business, we’re invested in keeping Jacksonville’s historic neighborhoods and newer developments looking their best. From Riverside’s bungalows to beachfront properties, we understand what makes each area unique."
+      ],
+      "valueProps": [
+        {
+          "title": "Climate-Savvy Cleaning",
+          "description": "Our methods account for Jacksonville’s salt air, humidity, and frequent rain to prevent rapid re-soiling."
+        },
+        {
+          "title": "Preservation-First",
+          "description": "We adjust pressure and solutions to protect older brick, historic wood, and delicate stucco common in local architecture."
+        },
+        {
+          "title": "Deep Local Knowledge",
+          "description": "Twelve years of servicing Duval County means we know which areas need extra attention—like shaded north-facing walls prone to algae."
+        },
+        {
+          "title": "Storm-Ready",
+          "description": "Post-hurricane cleanup is part of our expertise, safely removing flood residues and storm debris from exteriors."
+        }
+      ],
+      "ctaHeadline": "See the Summit Difference",
+      "ctaSubline": "Schedule your free assessment today and let us handle Jacksonville’s toughest stains."
+    },
+    "services": [
+      {
+        "slug": "residential-power-washing",
+        "name": "Residential Power Washing",
+        "shortDescription": "Revitalize your Jacksonville home’s exterior with our tailored pressure-washing solutions.",
+        "description": "Jacksonville’s humid climate and salty coastal air create a perfect storm for grime, mold, and mildew buildup on home exteriors. Our residential power-washing service is designed specifically for the region’s diverse housing stock, from mid-century ranch homes in Avondale to newer constructions in the Southside.\n\nWe start by evaluating your home’s materials—whether it’s hardy Jacksonville brick, vulnerable historic wood siding, or modern vinyl—and customize our pressure and cleaning agents accordingly. For older Riverside homes, we use gentle soft-washing to protect delicate surfaces while still removing decades of accumulated stains. For concrete driveways in newer developments, we apply higher pressure to eliminate tire marks and oil stains embedded by the Florida heat.\n\nOur process includes pre-treatment with biodegradable solutions to break down organic growth, followed by systematic washing from roof to foundation to prevent streaking. We pay special attention to north-facing walls and shaded areas where Jacksonville’s moisture lingers longest.",
+        "process": [
+          "Step 1: Property walkthrough to identify material types and problem areas",
+          "Step 2: Application of eco-friendly pre-treatment solutions to loosen grime",
+          "Step 3: Adjusted-pressure washing using temperature-controlled water",
+          "Step 4: Final rinse with spot-check for consistent results"
+        ],
+        "benefits": [
+          "Extends lifespan of siding and roofing materials",
+          "Removes allergens like mold and pollen",
+          "Prevents permanent staining from mineral deposits",
+          "Boosts curb appeal for Jacksonville’s competitive housing market"
+        ],
+        "faq": [
+          {
+            "question": "Will power-washing damage my historic home’s wood siding?",
+            "answer": "We use soft-wash techniques under 500 PSI for vulnerable materials, which cleans effectively without the risks of traditional pressure washing. Our team has extensive experience with Riverside’s and San Marco’s historic districts."
+          },
+          {
+            "question": "How often should Jacksonville homes be power-washed?",
+            "answer": "Most properties near the beaches need annual service due to salt corrosion, while inland homes can often go 18-24 months. We’ll recommend a schedule based on your specific location and exposure."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Gentle yet effective roof cleaning to combat Jacksonville’s relentless algae growth.",
+        "description": "The combination of Jacksonville’s humidity and frequent rain turns roofs into breeding grounds for black algae and lichen, which can shorten shingle lifespan by decades if left untreated. Our roof cleaning service uses low-pressure soft washing—the only safe method for Jacksonville’s typical asphalt shingle roofs—paired with algaecides that continue working for months after application.\n\nWe’ve perfected our approach working on everything from Ponte Vedra’s steep-pitched roofs to the low-slope roofs common in Arlington’s mid-century homes. The process begins with a thorough inspection to spot compromised shingles or flashing that need repair attention before cleaning. Our proprietary mix of cleaning agents kills organic growth at the root without harming surrounding landscaping or the St. Johns River watershed.\n\nPost-cleaning, we apply a transparent protective coating that slows future growth, particularly valuable for north-facing roof sections that see little sunlight. This service is especially critical after hurricane season when storm debris accelerates microbial growth.",
+        "process": [
+          "Step 1: Visual roof inspection with binoculars or drone (no walking on roofs)",
+          "Step 2: Application of EPA-approved algaecide via low-pressure sprayer",
+          "Step 3: Gentle rinsing with controlled water flow to prevent granule loss",
+          "Step 4: Optional protective sealant application for extended results"
+        ],
+        "benefits": [
+          "Prevents premature roof replacement (a $15K+ savings)",
+          "Eliminates dark streaks that absorb heat and raise cooling costs",
+          "Reduces fire risk from dry organic matter",
+          "Maintains property value in Jacksonville’s humid climate"
+        ],
+        "faq": [
+          {
+            "question": "Is roof cleaning safe for my aging shingles?",
+            "answer": "Absolutely—our no-pressure method is specifically designed for older roofs. In fact, cleaning can add years to weathered shingles by removing moisture-retaining growth."
+          },
+          {
+            "question": "Why do my roof stains keep coming back?",
+            "answer": "Many Jacksonville companies just bleach surfaces white temporarily. We use deeper-penetrating solutions that kill organisms at the root and include optional preventative treatments."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway & Pavement Cleaning",
+        "shortDescription": "Transform oil-stained driveways and mossy walkways into pristine surfaces.",
+        "description": "Jacksonville’s heat bakes spills and leaks into pavement, while constant moisture encourages slippery moss growth on shaded paths. Our driveway cleaning service combines 3000 PSI pressure with hot water (when needed) to lift stubborn stains from oil, transmission fluid, and tire marks without damaging the aggregate in concrete—a common issue with amateur pressure washing.\n\nFor brick pavers in neighborhoods like San Marco or cobblestone in historic districts, we use surface-safe rotary surface cleaners that prevent joint sand displacement. We pay special attention to driveway edges where Jacksonville’s sandy soil tends to accumulate, and to areas near downspouts where roof runoff deposits granules and organic matter.\n\nThe process includes post-cleaning inspection for any cracks or spalling that may need sealing—critical advice given Jacksonville’s freeze-thaw cycles (yes, we get them occasionally). For pool decks, we use specialized no-slip treatments that maintain traction despite constant humidity.",
+        "process": [
+          "Step 1: Dry sweep to remove loose debris and identify stain types",
+          "Step 2: Application of degreasers or oxidizers as needed",
+          "Step 3: Precision cleaning with rotary surface attachment for even results",
+          "Step 4: Rinse with simultaneous vacuum recovery in sensitive areas"
+        ],
+        "benefits": [
+          "Removes trip hazards from moss and algae",
+          "Restores original color to faded concrete",
+          "Prevents permanent staining from automotive fluids",
+          "Reduces liability from slippery surfaces during rainy season"
+        ],
+        "faq": [
+          {
+            "question": "Can you remove those rust stains from my irrigation system?",
+            "answer": "Yes—we use oxalic acid treatments specifically for Jacksonville’s iron-rich water stains that standard pressure washing misses."
+          },
+          {
+            "question": "Will cleaning make my older driveway crumble?",
+            "Answer": "We assess pavement condition first and adjust pressure accordingly. In rare cases of severe deterioration, we’ll recommend repairs before cleaning to prevent further damage."
+          }
+        ]
+      },
+      {
+        "slug": "deck-cleaning",
+        "name": "Deck & Fence Restoration",
+        "shortDescription": "Bring life back to weather-beaten outdoor living spaces.",
+        "description": "Jacksonville’s tropical climate is particularly harsh on outdoor wood surfaces. Salt air corrodes fasteners, while constant humidity causes wood to gray and splinter prematurely. Our deck and fence cleaning service goes beyond surface cleaning to prepare your structure for staining or sealing—a critical service if you want protective treatments to actually penetrate and last.\n\nWe start by identifying the wood type (common local varieties include pressure-treated pine, cedar, and tropical hardwoods) and checking for soft spots or raised grain that need special attention. Our low-pressure washing technique removes dirt and mildew without damaging wood fibers, followed by brightening with oxalic acid to neutralize tannin stains from leaves and restore natural color.\n\nFor composite materials popular in newer Jacksonville developments, we use specialized cleaners that remove mold without voiding warranties. The service includes inspection for loose boards, protruding nails, and early signs of dry rot—common issues in our humid climate that homeowners often miss until it’s too late.",
+        "process": [
+          "Step 1: Inspection for structural issues and material identification",
+          "Step 2: Application of wood-safe cleaners with dwell time for deep penetration",
+          "Step 3: Gentle washing with fan tip nozzle to avoid gouging",
+          "Step 4: Neutralizing rinse and brightener application if needed"
+        ],
+        "benefits": [
+          "Prepares surfaces for longer-lasting stain/sealant adhesion",
+          "Removes slippery algae that makes decks hazardous",
+          "Identifies minor repairs before they become major",
+          "Restores natural wood beauty without sanding"
+        ],
+        "faq": [
+          {
+            "question": "Can you clean my screen enclosure without damaging it?",
+            "answer": "Yes—we use specialized soft wash techniques and screen-safe cleaners at low pressure to remove green algae buildup without tearing mesh or harming aluminum frames."
+          },
+          {
+            "question": "How soon after cleaning can I stain my deck?",
+            "answer": "In Jacksonville’s humidity, wood typically needs 48-72 hours to fully dry. We’ll advise based on current weather conditions and wood type."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning & Exterior Prep",
+        "shortDescription": "Prevent water damage with debris-free gutters and clean exterior surfaces.",
+        "description": "Clogged gutters cause 90% of Jacksonville’s exterior water damage issues—from foundation erosion to rotten fascia boards. Our gutter cleaning service removes layers of live oak leaves, pine needles, and sand that accumulate in Jacksonville’s rainy season, with special attention to preventing granule loss from asphalt shingles during the process.\n\nWe go beyond basic debris removal by power-washing gutter exteriors (where most grime accumulates), flushing downspouts to ensure proper drainage, and checking for loose brackets or leaks—particularly important before hurricane season. For homes near the beaches, we include a salt residue treatment to slow corrosion on aluminum gutters.\n\nThe service often pairs well with our exterior wall cleaning, as clean gutters prevent dirty runoff from re-soiling freshly washed siding. We also inspect for carpenter bee holes, wasp nests, and other pest entry points that are common in Northeast Florida’s wooden soffits.",
+        "process": [
+          "Step 1: Dry debris removal with hand scooping to prevent downstream clogs",
+          "Step 2: Flushing with pressurized water to clear micro-debris",
+          "Step 3: Exterior scrubbing to remove oxidation and stains",
+          "Step 4: Downspout flow test and drainage assessment"
+        ],
+        "benefits": [
+          "Prevents ice dam equivalents during Jacksonville’s rare cold snaps",
+          "Reduces mosquito breeding sites in standing water",
+          "Extends gutter lifespan by preventing rust and corrosion",
+          "Identifies minor issues before they cause roof leaks"
+        ],
+        "faq": [
+          {
+            "question": "How often should Jacksonville gutters be cleaned?",
+            "answer": "Most homes need biannual service—after spring pollen drop and again post-hurricane season. Properties under live oaks may need quarterly attention."
+          },
+          {
+            "question": "Can you handle my two-story house safely?",
+            "answer": "Our team uses stabilized ladders with standoff arms to protect roofing, plus harness systems for steep pitches common in Ponte Vedra homes."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Marianne K.",
+        "rating": 5,
+        "service": "Roof Cleaning",
+        "text": "After three other companies just bleached our roof white temporarily, Summit actually solved our recurrent black streaks. Two years later, our Arlington home’s roof still looks clean despite Jacksonville’s humidity. They even noticed some loose flashing our roofer missed.",
+        "date": "2025-03-14"
+      },
+      {
+        "name": "Carlos R.",
+        "rating": 5,
+        "service": "Driveway Cleaning",
+        "text": "The oil stains from my classic car project had been there so long I thought they were permanent. Summit used some kind of heated treatment that lifted everything without etching the concrete. Now my Riverside historic district driveway looks brand new.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Lisa T.",
+        "rating": 5,
+        "service": "Deck Restoration",
+        "text": "Our Ponte Vedra beach house deck was gray and splintery after 8 years of salt air. They brought back the original cedar color without sanding and pointed out some soft spots we could fix before they became dangerous. Staining prep was included—unlike other quotes we got.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "James D.",
+        "rating": 5,
+        "service": "Residential Power Washing",
+        "text": "The team understood exactly how to clean our 1960s San Marco brick without damaging the mortar. They adjusted pressure constantly for different surfaces—even got decades of grime off our aluminum awning. House looks like it did when my grandparents bought it.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Natasha P.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "I didn’t realize how much damage clogged gutters were causing until Summit cleaned ours. They found rotting fascia behind the downspout and showed me exactly where water was pooling near our foundation. Preventative maintenance is worth every penny in Jacksonville.",
+        "date": "2024-09-29"
+      },
+      {
+        "name": "Derrick W.",
+        "rating": 5,
+        "service": "Full Exterior Cleaning",
+        "text": "Scheduled a pre-hurricane season clean for our Mandarin home. The crew power-washed siding, cleaned gutters, and even removed lichen from our paver walkway—all in one visit. When the storm hit, water actually flowed away from the house like it’s supposed to. Will make this an annual ritual.",
+        "date": "2024-08-11"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jacksonville Power Washing | Home Exterior Cleaning Experts",
+        "description": "Local Jacksonville power-washing company specializing in roof cleaning, driveway restoration, and exterior maintenance for Duval County homes since 2012."
+      },
+      "about": {
+        "title": "About Our Jacksonville Power Washing Company",
+        "description": "Learn why Summit Power Washing has been Jacksonville’s trusted exterior cleaning choice for over a decade. Locally owned, climate-savvy service."
+      },
+      "services": {
+        "title": "Jacksonville Power Washing Services | Residential & Commercial",
+        "description": "Comprehensive exterior cleaning services for Jacksonville homes: roof washing, driveway cleaning, deck restoration, and gutter maintenance."
+      },
+      "contact": {
+        "title": "Contact Jacksonville’s Power Washing Professionals",
+        "description": "Schedule your free power-washing estimate in Jacksonville, Orange Park, or St. Augustine. Quick response, transparent pricing."
+      },
+      "reviews": {
+        "title": "Jacksonville Power Washing Reviews | Real Customer Stories",
+        "description": "See what Jacksonville homeowners say about Summit Power Washing’s roof cleaning, driveway restoration, and exterior maintenance services."
+      },
+      "service-areas": {
+        "title": "Power Washing Service Areas Near Jacksonville FL",
+        "description": "Serving Duval County and surrounding areas including St. Augustine and Orange Park with expert exterior cleaning tailored to local conditions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "St. Augustine",
+        "slug": "st-augustine-fl",
+        "state": "FL",
+        "content": "Summit Power Washing proudly serves the historic city of St. Augustine, Florida, known for its stunning Spanish Colonial architecture. Our gentle yet effective power-washing techniques are perfect for preserving the beauty of historic homes, brick walkways, and stucco walls while removing years of grime and mold. With Jacksonville's humid climate, algae and mildew buildup are common, but our eco-friendly cleaning solutions ensure your property stays pristine without harming the environment. Trust us to restore the charm of your historic property with professional care.",
+        "localContext": "St. Augustine's historic architecture requires specialized cleaning to preserve its unique character.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Ponte Vedra Beach",
+          "Vilano Beach"
+        ]
+      },
+      {
+        "city": "Orange Park",
+        "slug": "orange-park-fl",
+        "state": "FL",
+        "content": "Summit Power Washing is your trusted provider for power-washing services in Orange Park, Florida, a community filled with 1970s-80s ranch-style homes. Our team specializes in removing built-up dirt, pollen, and mildew from siding, driveways, and sidewalks, helping your home look its best in the humid Florida climate. We understand the challenges of maintaining older suburban properties and offer tailored solutions to enhance curb appeal while protecting your surfaces. Let us help you keep your home looking fresh and well-maintained year-round.",
+        "localContext": "Orange Park's suburban ranch homes benefit from regular power washing to combat humidity-related grime.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Middleburg",
+          "Fleming Island"
+        ]
+      },
+      {
+        "city": "Jacksonville",
+        "slug": "jacksonville-fl",
+        "state": "FL",
+        "content": "As Jacksonville's premier power-washing service, Summit Power Washing caters to both residential and commercial properties across the city. Jacksonville's mix of modern and historic buildings demands expert care, and our high-pressure and soft-wash techniques are ideal for all surfaces, from vinyl siding to concrete driveways. The coastal humidity accelerates mold and algae growth, but our proven methods ensure long-lasting results. Whether you're preparing for a sale or maintaining your property, we deliver top-quality service with attention to detail.",
+        "localContext": "Jacksonville's diverse architecture and coastal climate make power washing essential for property upkeep.",
+        "nearbyAreas": [
+          "Atlantic Beach",
+          "Neptune Beach",
+          "Orange Park"
+        ]
+      },
+      {
+        "city": "Ponte Vedra Beach",
+        "slug": "ponte-vedra-beach-fl",
+        "state": "FL",
+        "content": "Summit Power Washing provides top-tier exterior cleaning services for the upscale homes and condos of Ponte Vedra Beach. Salt air and high humidity can cause rapid deterioration of exterior surfaces, but our specialized treatments protect and revitalize your property. From luxury estates to beachfront properties, we use low-pressure techniques to safely remove salt deposits, sand, and algae. Let us help you maintain the pristine appearance of your coastal home with our expert power-washing solutions.",
+        "localContext": "Ponte Vedra Beach's coastal environment requires frequent cleaning to combat salt and sand buildup.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "St. Augustine",
+          "Sawgrass"
+        ]
+      },
+      {
+        "city": "Fleming Island",
+        "slug": "fleming-island-fl",
+        "state": "FL",
+        "content": "Summit Power Washing serves the beautiful suburban community of Fleming Island, where well-maintained homes are a point of pride. Our services tackle the stubborn dirt, pollen, and mildew that accumulate in Florida's humid climate. Whether you need driveway cleaning, house washing, or patio restoration, we use the latest equipment to deliver outstanding results without damaging your property. Keep your Fleming Island home looking its best with our professional power-washing expertise.",
+        "localContext": "Fleming Island's upscale homes benefit from regular exterior maintenance to preserve their value.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Green Cove Springs",
+          "Middleburg"
+        ]
+      },
+      {
+        "city": "Green Cove Springs",
+        "slug": "green-cove-springs-fl",
+        "state": "FL",
+        "content": "Summit Power Washing is proud to serve Green Cove Springs, a charming town with a mix of historic and modern homes. The humid climate here leads to frequent mold and mildew growth on roofs, sidewalks, and siding. Our gentle yet effective cleaning methods restore surfaces without causing damage, making us the preferred choice for homeowners in the area. Trust us to enhance your property's appearance and protect it from the elements with our professional power-washing services.",
+        "localContext": "Green Cove Springs' blend of old and new architecture requires careful power-washing techniques.",
+        "nearbyAreas": [
+          "Fleming Island",
+          "Middleburg",
+          "Orange Park"
+        ]
+      },
+      {
+        "city": "Atlantic Beach",
+        "slug": "atlantic-beach-fl",
+        "state": "FL",
+        "content": "Summit Power Washing specializes in serving Atlantic Beach homeowners who face the challenges of coastal living. Salt spray, sand, and humidity can quickly degrade exterior surfaces, but our tailored cleaning solutions combat these issues effectively. From beachfront homes to inland properties, we provide thorough and safe power washing to keep your investment looking its best. Choose us for reliable, eco-friendly cleaning that stands up to the Atlantic Beach environment.",
+        "localContext": "Atlantic Beach's coastal conditions demand frequent and specialized power washing.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "Neptune Beach",
+          "Ponte Vedra Beach"
+        ]
+      },
+      {
+        "city": "Middleburg",
+        "slug": "middleburg-fl",
+        "state": "FL",
+        "content": "Summit Power Washing offers expert exterior cleaning services for Middleburg's growing suburban community. With its mix of older and newer homes, Middleburg properties need regular maintenance to combat Florida's relentless humidity and pollen. Our team is skilled at removing grime from siding, roofs, and driveways, ensuring your home maintains its curb appeal. Let us take the hassle out of exterior cleaning with our professional and dependable power-washing services.",
+        "localContext": "Middleburg's expanding neighborhoods require consistent power washing to stay clean and attractive.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Fleming Island",
+          "Green Cove Springs"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-power-washing": "/images/service-residential-power-washing.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "deck-cleaning": "/images/service-deck-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp"
+    },
+    "servicesResponsive": {
+      "residential-power-washing": {
+        "src": "/images/service-residential-power-washing.webp",
+        "srcset": "/images/service-residential-power-washing-400w.webp 400w, /images/service-residential-power-washing-800w.webp 800w, /images/service-residential-power-washing-1200w.webp 1200w, /images/service-residential-power-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-cleaning": {
+        "src": "/images/service-deck-cleaning.webp",
+        "srcset": "/images/service-deck-cleaning-400w.webp 400w, /images/service-deck-cleaning-800w.webp 800w, /images/service-deck-cleaning-1200w.webp 1200w, /images/service-deck-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
